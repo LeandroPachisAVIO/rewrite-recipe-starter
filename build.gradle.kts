@@ -13,7 +13,7 @@ plugins {
 }
 
 // Set as appropriate for your organization
-group = "com.yourorg"
+group = "com.github.leandro.pachis.avio"
 description = "Rewrite recipes."
 
 dependencies {
